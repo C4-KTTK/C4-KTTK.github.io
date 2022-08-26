@@ -151,9 +151,9 @@
 
 
 
-/* makes text lighter? idk */
+/* makes text lighter? idk :+  */
 *:not(.markup-eYLPri strong, .bold-ia41Lc){
-    font-weight             :               320 !important;
+    font-weight             :               420 !important;
 }
 
 
@@ -180,14 +180,13 @@
 
 /* adds watermark */
 :root{
-    --version-number        :               "1.0";
+    --version-number        :               "1.1";
 }
 .wordmarkWindows-2dq6rw svg {
    display                  :               none;
 }
 .wordmarkWindows-2dq6rw::before{
    content                  :               'Zelq';
-   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
    font-size                :               13px;
    font-weight              :               700;
    top                      :               4px;
@@ -197,6 +196,7 @@
 .wordmarkWindows-2dq6rw::after{
     content                 :               'v' var(--version-number);
     font-size               :               11px;
+    font-weight             :               500;
     margin-left             :               2px;
     top                     :               4px;
     left                    :               -3px;
@@ -488,7 +488,7 @@
     content                 :               " (" attr(aria-label) ")";
     color                   :               var(--text-muted);
     font-size               :               0.625rem;
-    font-weight             :               400;
+    font-weight             :               500;
     line-height             :               1;
     text-transform          :               lowercase;
 }
@@ -1894,7 +1894,7 @@ button.button-2b4VEQ.height20-WSMpPs.button-f2h6uQ.lookFilled-yCfaCM.colorGreen-
 
 /* makes pings more bold(BARELY noticable bro) */
 .lowerBadge-3WTshO .numberBadge-37OJ3S {
-    font-weight:                            500 !important;
+    font-weight:                            600 !important;
 }
 
 
@@ -2510,7 +2510,7 @@ body #app-mount .tooltip-14MtrL{
     cursor: pointer;
     border-radius: 3px;
     padding: 0 2px;
-    font-weight: 500;
+    font-weight: 600;
     padding-left: 20px;
     border-radius: 5px;
 }
