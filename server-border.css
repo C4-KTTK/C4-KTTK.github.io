@@ -17,7 +17,7 @@
 }
 #app-mount .blobContainer-ikKyFs,
 #app-mount .listItemWrapper-3d87LP {
-  transition: var(--transition, 0.15s ease);
+  transition: var(--transition, 0.35s ease);
   transition-property: transform;
 }
 #app-mount .blobContainer-ikKyFs:active,
