@@ -22,7 +22,7 @@
 }
 #app-mount .blobContainer-ikKyFs:active,
 #app-mount .listItemWrapper-3d87LP:active {
-  transform: scale(1.9);
+  transform: scale(0.9);
 }
 #app-mount .svg-2zuE5p foreignObject {
   border-radius: var(--server-roundness, 50%);
