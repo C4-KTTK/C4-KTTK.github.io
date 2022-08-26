@@ -3,7 +3,6 @@
 * @version 1.0
 * @author carrot#8812
 * @description A theme with a nice shade of gray everywhere! Its super comfy.
-* @source https://github.com/ObjectiveSlayer/ComfyGray
 * @invite not-set
 */
 
@@ -530,7 +529,7 @@
 }
  
  /* Settings/Deafen/Mute Buttons Animated */
-.button-12Fmur:hover .contents-3ca1mk {
+/*.button-12Fmur:hover .contents-3ca1mk {
     animation               :               UserModalButtons 0.5s normal ease;
 }
 .container-YkUktl .noWrap-hBpHBz {
@@ -548,7 +547,7 @@
     50% {transform          :               translateY(-5px);}
     100% {transform         :               translateY(0px);}
 }
-
+*/
 
 
 
