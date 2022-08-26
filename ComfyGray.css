@@ -529,7 +529,7 @@
 }
  
  /* Settings/Deafen/Mute Buttons Animated */
-/*.button-12Fmur:hover .contents-3ca1mk {
+.button-12Fmur:hover .contents-3ca1mk {
     animation               :               UserModalButtons 0.5s normal ease;
 }
 .container-YkUktl .noWrap-hBpHBz {
@@ -547,7 +547,6 @@
     50% {transform          :               translateY(-5px);}
     100% {transform         :               translateY(0px);}
 }
-*/
 
 
 
@@ -815,7 +814,7 @@ button[aria-label="Show Game Activity"]::before {
 
 
 /* user setting buttons */
-.lookFilled-yCfaCM.colorBrand-I6CyqQ {
+/*.lookFilled-yCfaCM.colorBrand-I6CyqQ {
     background-color        :             #222222;
 }
 .lookFilled-yCfaCM .contents-3ca1mk, .lookInverted-2mDUMi .contents-3ca1mk, .lookLink-15mFoz .contents-3ca1mk, .lookOutlined-3yKVGo .contents-3ca1mk{
@@ -830,7 +829,7 @@ button[aria-label="Show Game Activity"]::before {
 .messagesWrapper-RpOMA3 ::-webkit-scrollbar{
     display                 :               none;
 }
-
+*/
 
 
 
