@@ -91,7 +91,7 @@
   border-color: rgb(var(--server-unread-colour));
 }
 #app-mount [class*=pill] span[style*="height: 9"] {
-  border-color: rgb(var(--server-hover-colour));
+  border-color: rgb(var(--server-'-colour));
   box-shadow: 0 0 calc(var(--server-glow-intensity) * 15px) calc(var(--server-glow-intensity) * 5px) rgb(var(--server-hover-colour), 0.25);
 }
 #app-mount [class*=pill] span[style*="height: 10"] {
